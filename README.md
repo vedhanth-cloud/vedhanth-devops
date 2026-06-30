@@ -1,12 +1,12 @@
-# vedhanth-devops
-
-# Hi, I'm Vedhanth 👋
+# Hi, I'm Vedhanth Atthuluri 👋
 
 ## DevOps Engineer in Training
 
-Currently learning:
+Passionate about Cloud, Automation, Infrastructure, and CI/CD.
 
-- Linux
+Currently building hands-on projects in:
+
+- Linux Administration
 - Git & GitHub
 - Bash Scripting
 - Docker
@@ -14,17 +14,55 @@ Currently learning:
 - AWS
 - Kubernetes
 - Terraform
-- Monitoring
+- Prometheus & Grafana
 
-## Current Goal
+---
 
-Become a job-ready DevOps Engineer through hands-on projects and real-world automation.
+## Current Roadmap
 
-## Tech Stack
+### Week 1
+- [x] Linux Fundamentals
+- [x] Linux Users & Permissions
+- [ ] Git & GitHub
+- [ ] Bash Scripting
 
-Linux | Git | Docker | Jenkins | AWS | Kubernetes
+### Week 2
+- [ ] Advanced Git
+- [ ] Shell Automation
 
-## Current Progress
+### Week 3
+- [ ] Docker
 
-Week 1 - Linux Fundamentals ✅
-Week 2 - Git & GitHub ⏳
+### Week 4
+- [ ] Jenkins CI/CD
+
+### Week 5
+- [ ] AWS
+
+### Week 6
+- [ ] Kubernetes
+
+### Week 7
+- [ ] Terraform & Monitoring
+
+### Week 8
+- [ ] DevOps Capstone Project
+
+---
+
+## Current Repository Plan
+
+| Repository | Status |
+|------------|---------|
+| Linux-Learning-Journey | In Progress |
+| Git-GitHub-Labs | Upcoming |
+| Docker-From-Scratch | Upcoming |
+| Jenkins-CI-CD-Pipeline | Upcoming |
+| AWS-DevOps-Labs | Upcoming |
+| Kubernetes-Hands-On | Upcoming |
+
+---
+
+## Goal
+
+Build a complete DevOps portfolio through practical projects and real-world deployments.
