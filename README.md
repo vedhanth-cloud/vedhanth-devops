@@ -23,7 +23,7 @@ Currently building hands-on projects in:
 ### Week 1
 - [x] Linux Fundamentals
 - [x] Linux Users & Permissions
-- [ ] Git & GitHub
+- [x] Git & GitHub
 - [ ] Bash Scripting
 
 ### Week 2
